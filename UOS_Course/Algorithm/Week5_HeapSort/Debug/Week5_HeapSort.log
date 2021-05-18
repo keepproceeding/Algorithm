@@ -1,0 +1,3 @@
+﻿  asc_heap_sort.c
+C:\Users\Oh Won Jin\source\repos\Algorithm\Week5_HeapSort\asc_heap_sort.c(92,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Week5_HeapSort.vcxproj -> C:\Users\Oh Won Jin\source\repos\Algorithm\Week5_HeapSort\Debug\Week5_HeapSort.exe
